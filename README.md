@@ -22,7 +22,7 @@
 
 ##
 <div>
-  <a href="mailto:gabriella.salviano@hotmail.com">
+  <a href="mailto:gabriella.salviano1994@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriella-salviano-24aa33100" target="_blank">
