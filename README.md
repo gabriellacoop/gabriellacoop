@@ -1,8 +1,8 @@
 ### Hi there, I am Gabriella
 
-- 🌱 I’m currently learning Computer Programming
+- 🌱 I’m Computer Programming
 - 📫 How to reach me: gabriella.salviano@hotmail.com
-- 😄 Pronouns: They/Them
+
 
 <div align="center">
   <a href="https://github.com/gabriellacoop">
