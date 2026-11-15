@@ -37,12 +37,13 @@
 
 ---
 
-### 📊 GitHub Statistics
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellacoop&show_icons=true&theme=dracula" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacoop&layout=compact&theme=dracula" height="180" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
+
 
 ---
 
