@@ -1,28 +1,81 @@
-### Hi there, I am Gabriella
 
-- 🌱 I’m Computer Programming
-- 📫 How to reach me: gabriella.salviano@hotmail.com
+<h1 align="center">Hi, I'm Gabriella! 👋</h1>
 
+<h3 align="center">
+  Aspiring Software Developer | Python | QA Automation | Site Reliability Engineering
+</h3>
 
-<div align="center">
-  <a href="https://github.com/gabriellacoop">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellacoop&show_icons=true&theme=dracula&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacoop&layout=compact&langs_count=7&theme=dracula" />
+<p align="center">
+  Passionate about software reliability, automation, problem-solving and technology.
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Programming graduate.
+- 💻 Interested in Software Development, QA Automation and SRE.
+- 🐍 Currently developing projects using Python.
+- ⚙️ Learning software monitoring, automation and troubleshooting.
+- 🚀 Building practical projects to grow my technical experience.
+- 📍 Based in Canada.
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gabriellacoop&show_icons=true&theme=dracula&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacoop&layout=compact&theme=dracula&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+**Application Reliability Monitor**
+
+A Python-based monitoring project designed to:
+
+- Monitor application health.
+- Detect service failures.
+- Log incidents and recovery events.
+- Track service downtime.
+- Automate health checks.
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:gabriella.salviano@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-<div style="display: inline_block; margin-top: 20px;"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-</div>
-<p></p>
-<div style="margin-top: 20px;">
- <a href="mailto:gabriella.salviano1994@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://www.linkedin.com/in/gabriella-salviano-24aa33100" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/gabriella-salviano-24aa33100">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
