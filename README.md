@@ -40,16 +40,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gabriellacoop&show_icons=true&theme=dracula&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacoop&layout=compact&theme=dracula&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellacoop&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellacoop&layout=compact&theme=dracula" height="180" />
 </p>
 
 ---
